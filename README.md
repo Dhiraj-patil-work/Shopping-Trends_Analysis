@@ -1,5 +1,3 @@
-<title>Shopping Trend Analysis</title>
-<body>
 <h1>Shopping Trend Analysis</h1>
      <p><strong>Author:</strong> Dhiraj Patil</p>
      <p><strong>Project Type:</strong> Data Analysis</p>
