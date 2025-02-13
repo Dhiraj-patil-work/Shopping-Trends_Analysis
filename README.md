@@ -18,15 +18,6 @@
          <li><strong>ShoppingTrends-Project.ipynb</strong> - Jupyter Notebook with data exploration, visualization, and insights.</li>
      </ul>
 
-<h2>Installation and Setup</h2>
-     <p>To run this project, follow these steps:</p>
-     <ol>
-         <li>Install Python and Jupyter Notebook.</li>
-         <li>Install necessary Python libraries:</li>
-         <pre><code>pip install pandas numpy matplotlib seaborn</code></pre>
-         <li>Open the Jupyter Notebook and run the <code>ShoppingTrends-Project.ipynb</code>.</li>
-     </ol>
-
 <h2>Key Insights</h2>
      <ul>
          <li>Identification of peak shopping seasons.</li>
